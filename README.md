@@ -1,6 +1,6 @@
 # Coffee Website using TailwindCss
 
-Website using tailiwind classes
+Website using tailiwind classes, simple HTML and Javascript
 
 ## Installation
 
